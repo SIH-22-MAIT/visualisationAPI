@@ -12,6 +12,10 @@ def nameQuantity():
     manufacturer_obj = manufacturer.Manufacturers()
     return manufacturer_obj.NameQuantity
 
+@app.route('/manufacturer/DailyData')
+def dailyData():
+    manufacturer_obj = manufacturer.Manufacturers()
+    return manufacturer_obj.DailyData
 
 
 if __name__ == "__main__":
