@@ -11,8 +11,8 @@ class Manufacturers():
         meds = manufacturer_df.pivot_table(index = ['drugName'], aggfunc ='size')
         meds = meds.reset_index()
 
-        x = meds['drugName']
-        y = meds[0]
+        x = meds['drugName'].to_list()
+        y = meds[0].to_list()
 
         data = {'x': x, 'y': y}
         return json.dumps(data)
