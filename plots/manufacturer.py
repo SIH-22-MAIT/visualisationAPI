@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-manufacturer_df = pd.read_csv('data/manufacturer.csv')
+manufacturer_df = pd.read_csv('data/manufacturerForm.csv')
 
 
 class Manufacturers():
@@ -19,7 +19,7 @@ class Manufacturers():
         return json.dumps(data)
     
     def dailyPlot(self):
-        daily = manufacturer_df[manufacturer_df.prescription == True] 
+        daily = manufacturer_df
         daily['outTime'] = pd.to_datetime(daily['outTime'],unit='s')
         daily = daily.pivot_table(index = daily.outTime.dt.date, aggfunc ='size')
         daily = daily.to_frame()
