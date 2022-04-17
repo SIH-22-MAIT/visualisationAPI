@@ -1,5 +1,7 @@
 import pandas as pd
 import json
+import numpy as np
+
 manufacturer_df = pd.read_csv('data/manufacturerForm.csv')
 
 
@@ -9,11 +11,11 @@ class Manufacturers():
         self.DailyData = self.dailyPlot()
     
     def DrugNameQuantity(self):
-        meds = manufacturer_df.pivot_table(index = ['drugName'], aggfunc ='size')
+        meds = manufacturer_df.pivot_table(index = ['drugName'],aggfunc=np.sum)
         meds = meds.reset_index()
 
         x = meds['drugName'].to_list()
-        y = meds[0].to_list()
+        y = meds['quantity'].to_list()
 
         data = {'x': x, 'y': y}
         return json.dumps(data)
