@@ -27,5 +27,10 @@ def medicalStoreDailyData():
     medical_obj = medical.medicalStore()
     return medical_obj.DailyData
 
+@app.route('/doctor/NameQuantity')
+def doctorNameQuantity():
+    doctor_obj = doctor.Doctors()
+    return doctor_obj.NameQuantity
+
 if __name__ == "__main__":
     app.run(debug=True)
