@@ -1,4 +1,4 @@
-role, doctorID, patientID, quantity, drugName, dosage, duration
+role,doctorID,patientID,quantity,drugName,dosage,duration
 doctor,625ac99ffc13ae0e18000143,5338454134114911,22,equaline naproxen sodium,0.0918,2
 doctor,625ac99ffc13ae0e18000143,7538994392436304,30,Fentanyl,0.5733,5
 doctor,625ac99ffc13ae0e18000143,1759144414755890,13,dg health pain reliever,0.2921,6
