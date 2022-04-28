@@ -7,6 +7,11 @@ app = Flask(__name__)
 def main():
     return render_template('index.html')
 
+@app.route('/manufacturer/IdQuantity')
+def IDQuantity():
+    manufacturer_obj = manufacturer.Manufacturers()
+    return manufacturer_obj.ManufacturerVsQuantity
+
 @app.route('/manufacturer/NameQuantity')
 def nameQuantity():
     manufacturer_obj = manufacturer.Manufacturers()

@@ -9,15 +9,6 @@ class Manufacturers():
     def __init__(self):
         self.NameQuantity = self.DrugNameQuantity()
         self.DailyData = self.dailyPlot()
-        self.ManufacturerVsQuantity = self.ManufacturerVsQuantity()
-
-    def ManufacturerVsQuantity(self):
-        manufacturer_byID = pd.pivot_table(manufacturer_df, values='quantity', index=['manufacturerID'], aggfunc=np.sum)
-        manufacturer_byID = manufacturer_byID.reset_index()
-        y = manufacturer_byID['quantity'].to_list()
-        x = manufacturer_byID['manufacturerID'].to_list()
-        data = {'x': x, 'y': y}
-        return json.dumps(data)
     
     def DrugNameQuantity(self):
         meds = manufacturer_df.pivot_table(index = ['drugName'],aggfunc=np.sum)

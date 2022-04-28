@@ -1,0 +1,501 @@
+role,manufacturerID,drugName,quantity,outTime
+manufacturer,625ac99ffc13ae0e1800014d,Breast Help,20,1627176318
+manufacturer,625ac99ffc13ae0e18000147,"American Continental Techlabs, LLC INSTANT HAND SANITIZER",17,1644297766
+manufacturer,625ac99ffc13ae0e18000131,Captopril,18,1645636885
+manufacturer,625ac99ffc13ae0e18000141,BUPROPION HYDROCHLORIDE,26,1644864193
+manufacturer,625ac99ffc13ae0e1800014d,DermOtic,22,1645675771
+manufacturer,625ac99ffc13ae0e1800013e,Levothyroxine Sodium,25,1636159398
+manufacturer,625ac99ffc13ae0e1800012c,careone childrens pain and fever,20,1631121765
+manufacturer,625ac99ffc13ae0e1800014d,Allergy and Hay Fever Reliever,13,1627327383
+manufacturer,625ac99ffc13ae0e1800013e,Smart Sense miconazole 1,20,1639003877
+manufacturer,625ac99ffc13ae0e1800012e,Fenofibrate,21,1638681380
+manufacturer,625ac99ffc13ae0e1800012e,Nifedipine,22,1626613334
+manufacturer,625ac99ffc13ae0e1800014d,DiorSkin Nude 010 Ivory,23,1643590019
+manufacturer,625ac99ffc13ae0e1800014d,Atracurium Besylate,12,1622068810
+manufacturer,625ac99ffc13ae0e18000147,TODAYS HEALTH NASAL RELIEF ORIGINAL,20,1648177610
+manufacturer,625ac99ffc13ae0e1800014d,3LAB PERFECT BB SPF 40 Broad Spectrum 03,23,1638800044
+manufacturer,625ac99ffc13ae0e1800014d,Epsom Salt,24,1643841697
+manufacturer,625ac99ffc13ae0e1800012c,Triamcinolone Acetonide,11,1648355452
+manufacturer,625ac99ffc13ae0e18000131,Zolpidem Tartrate,20,1641989373
+manufacturer,625ac99ffc13ae0e1800012e,Adult Infuvite Multiple Vitamins for Infusion,10,1622145483
+manufacturer,625ac99ffc13ae0e1800012d,TONYMOLY BCDATION,20,1641408449
+manufacturer,625ac99ffc13ae0e18000148,Cefoxitin,22,1648399396
+manufacturer,625ac99ffc13ae0e18000156,Pramipexole Dihydrochloride,17,1620968962
+manufacturer,625ac99ffc13ae0e1800012e,Griseofulvin,13,1621594464
+manufacturer,625ac99ffc13ae0e1800012d,Lexapro,23,1627618063
+manufacturer,625ac99ffc13ae0e18000148,Vax,20,1631639699
+manufacturer,625ac99ffc13ae0e1800012c,Ciprofloxacin,28,1643104702
+manufacturer,625ac99ffc13ae0e18000141,Allergenic Extracts Standardized Mite,15,1625848176
+manufacturer,625ac99ffc13ae0e18000156,Softlips Tint,19,1621553237
+manufacturer,625ac99ffc13ae0e18000156,Lisinopril,18,1630430918
+manufacturer,625ac99ffc13ae0e1800012e,Ciprofloxacin,14,1638198680
+manufacturer,625ac99ffc13ae0e18000147,Aveeno Active Naturals Positively Ageless Youth Perfecting Moisturizer,15,1635604609
+manufacturer,625ac99ffc13ae0e1800013e,Northera,12,1636424997
+manufacturer,625ac99ffc13ae0e1800012d,Metformin Hydrochloride,26,1648348466
+manufacturer,625ac99ffc13ae0e18000148,Xpect First aid Buffered Eyewash,28,1628981810
+manufacturer,625ac99ffc13ae0e18000156,Ergocalciferol,25,1634748623
+manufacturer,625ac99ffc13ae0e1800014d,LBEL divine lip gloss SPF 15,11,1634470200
+manufacturer,625ac99ffc13ae0e1800012e,Amlodipine Besylate,16,1642141178
+manufacturer,625ac99ffc13ae0e18000147,Benztropine Mesylate,25,1632788872
+manufacturer,625ac99ffc13ae0e1800012d,Asthma Rescue - Cough,20,1644087603
+manufacturer,625ac99ffc13ae0e18000156,Oxygen,14,1619513648
+manufacturer,625ac99ffc13ae0e1800012e,Deb Med Antibacterial Foam Hand Wash,29,1622936533
+manufacturer,625ac99ffc13ae0e18000136,Petroleum,28,1620206316
+manufacturer,625ac99ffc13ae0e18000156,Jock Itch,15,1643664552
+manufacturer,625ac99ffc13ae0e1800012c,Primidone,29,1635657963
+manufacturer,625ac99ffc13ae0e18000136,PREDNISONE,25,1629722919
+manufacturer,625ac99ffc13ae0e18000136,Cocklebur,18,1630647797
+manufacturer,625ac99ffc13ae0e18000148,CIPRODEX,22,1622725009
+manufacturer,625ac99ffc13ae0e18000156,Goat Epithelium,25,1626688555
+manufacturer,625ac99ffc13ae0e1800014a,Furosemide,18,1621628636
+manufacturer,625ac99ffc13ae0e18000136,Doxy 100,22,1644105590
+manufacturer,625ac99ffc13ae0e1800012e,metoprolol succinate,27,1624380471
+manufacturer,625ac99ffc13ae0e1800013e,Mesquite Pollen,16,1642124719
+manufacturer,625ac99ffc13ae0e18000141,Niravam,13,1645041225
+manufacturer,625ac99ffc13ae0e1800012e,Lansoprazole,30,1645408737
+manufacturer,625ac99ffc13ae0e1800012d,Wormwood,10,1626648710
+manufacturer,625ac99ffc13ae0e18000148,Testosterone,23,1624411872
+manufacturer,625ac99ffc13ae0e18000136,Synthroid,24,1623138531
+manufacturer,625ac99ffc13ae0e1800014d,Valacyclovir Hydrochloride,12,1629728388
+manufacturer,625ac99ffc13ae0e1800013e,Vancocin,30,1640000326
+manufacturer,625ac99ffc13ae0e18000147,Locoid,18,1625553265
+manufacturer,625ac99ffc13ae0e18000156,CALCITRIOL,30,1644315894
+manufacturer,625ac99ffc13ae0e18000148,Hydrocodone Bitartrate and Acetaminophen,26,1621630262
+manufacturer,625ac99ffc13ae0e18000147,HOLCUS LANATUS POLLEN,24,1635047276
+manufacturer,625ac99ffc13ae0e18000156,MORUS RUBRA POLLEN,30,1626461591
+manufacturer,625ac99ffc13ae0e1800012c,ESIKA,22,1642439968
+manufacturer,625ac99ffc13ae0e1800014a,Doxazosin,13,1649384593
+manufacturer,625ac99ffc13ae0e1800013e,MOISTURIZING HAND,12,1635131242
+manufacturer,625ac99ffc13ae0e1800012c,Fluoxetine,17,1648253575
+manufacturer,625ac99ffc13ae0e18000156,ESIKA,21,1629991456
+manufacturer,625ac99ffc13ae0e18000141,LIQUIDAMBAR STYRACIFLUA POLLEN,25,1632457357
+manufacturer,625ac99ffc13ae0e1800013e,Ciclopirox,20,1633041665
+manufacturer,625ac99ffc13ae0e1800012d,STEMPHYLIUM SOLANI,24,1647821595
+manufacturer,625ac99ffc13ae0e18000148,Bupropion Hydrochloride,11,1630686343
+manufacturer,625ac99ffc13ae0e1800014a,WATERLESS HAND SANITIZER,27,1638398034
+manufacturer,625ac99ffc13ae0e18000141,Cough and Bronchial Alcohol Free,22,1640682547
+manufacturer,625ac99ffc13ae0e1800014d,Dopamine,22,1619540727
+manufacturer,625ac99ffc13ae0e1800013e,Hydrocodone Polistirex and Chlorpheniramine Polistirex,29,1627825521
+manufacturer,625ac99ffc13ae0e1800014d,Health Mart Pharmacy Childrens Loratadine,13,1643998013
+manufacturer,625ac99ffc13ae0e1800013e,MS Contin,26,1622868042
+manufacturer,625ac99ffc13ae0e1800012c,CARE ONE,23,1621108752
+manufacturer,625ac99ffc13ae0e18000141,levofloxacin,18,1639724138
+manufacturer,625ac99ffc13ae0e1800012c,triamcinolone acetonide,11,1621631225
+manufacturer,625ac99ffc13ae0e1800012e,GOLDKIWI SUN,23,1640947355
+manufacturer,625ac99ffc13ae0e1800012c,Ciclopirox,27,1638924617
+manufacturer,625ac99ffc13ae0e18000131,Mustard Greens,24,1621405164
+manufacturer,625ac99ffc13ae0e18000136,Venlafaxine Hydrochloride,20,1633453349
+manufacturer,625ac99ffc13ae0e18000131,ABREVA,24,1631722527
+manufacturer,625ac99ffc13ae0e1800012e,Hemorrhoidal Pad,17,1629526487
+manufacturer,625ac99ffc13ae0e1800012e,PHENYLEPHRINE HYDROCHLORIDE,21,1637219571
+manufacturer,625ac99ffc13ae0e1800012c,SUBSYS,18,1640374175
+manufacturer,625ac99ffc13ae0e1800012e,Ropinirole Hydrochloride,19,1634175186
+manufacturer,625ac99ffc13ae0e18000136,Estring,16,1620817578
+manufacturer,625ac99ffc13ae0e18000148,NAAMAN,30,1631691566
+manufacturer,625ac99ffc13ae0e1800012e,Adult Low Dose Aspirin,27,1622660145
+manufacturer,625ac99ffc13ae0e18000156,Lansoprazole,26,1646043749
+manufacturer,625ac99ffc13ae0e18000136,Estazolam,22,1631669098
+manufacturer,625ac99ffc13ae0e18000131,Lysimachia Solanum 5,14,1631556827
+manufacturer,625ac99ffc13ae0e1800012d,Aruba Aloe Very Water Resistant Sunscreen,30,1645268442
+manufacturer,625ac99ffc13ae0e18000156,Mango Blossom,15,1630994361
+manufacturer,625ac99ffc13ae0e18000156,BELLADONNA,23,1647031552
+manufacturer,625ac99ffc13ae0e1800014a,Diltiazem Hydrochloride,30,1648278175
+manufacturer,625ac99ffc13ae0e1800012e,Ignatia Bryophyllum,12,1647587902
+manufacturer,625ac99ffc13ae0e1800014a,Nalfon,13,1640135684
+manufacturer,625ac99ffc13ae0e18000141,Skin Rash Complex,24,1634939508
+manufacturer,625ac99ffc13ae0e1800014a,Proactiv,12,1631011776
+manufacturer,625ac99ffc13ae0e18000148,Medique Alcalak,25,1628802105
+manufacturer,625ac99ffc13ae0e18000147,Anew Age-Transforming,16,1637521938
+manufacturer,625ac99ffc13ae0e18000156,Levothyroxine Sodium,11,1648144449
+manufacturer,625ac99ffc13ae0e18000147,Anzemet,12,1644476550
+manufacturer,625ac99ffc13ae0e18000131,LIPTRUZET,16,1642208079
+manufacturer,625ac99ffc13ae0e1800014a,ALTERNARIA TENUIS,18,1640706640
+manufacturer,625ac99ffc13ae0e18000156,FOR THE GARDENER LIP BALM,19,1643619153
+manufacturer,625ac99ffc13ae0e1800012e,AntiGas,24,1640864469
+manufacturer,625ac99ffc13ae0e18000156,BENZTROPINE MESYLATE,14,1634964461
+manufacturer,625ac99ffc13ae0e1800012d,Nite Time Cold and Flu Relief,28,1619526705
+manufacturer,625ac99ffc13ae0e18000141,Systane Ultra,23,1622608935
+manufacturer,625ac99ffc13ae0e18000156,Sodium Chloride,15,1624847182
+manufacturer,625ac99ffc13ae0e1800012e,Wholistic Thyroid Balance,20,1621574306
+manufacturer,625ac99ffc13ae0e1800014d,Mannitol,27,1628205067
+manufacturer,625ac99ffc13ae0e1800014a,Binaca Anticavity Flouride Peppermint,10,1622680247
+manufacturer,625ac99ffc13ae0e1800014a,Triamterene hydrochlorothiazide,25,1619504619
+manufacturer,625ac99ffc13ae0e18000148,Nitroglycerin in Dextrose,22,1643748919
+manufacturer,625ac99ffc13ae0e1800012c,Advanced Hydrocortisone,28,1619644339
+manufacturer,625ac99ffc13ae0e1800014a,SHISEIDO THE MAKEUP FOUNDATION,19,1629619558
+manufacturer,625ac99ffc13ae0e18000131,Mentholatum Sports Pain Relief,19,1640220128
+manufacturer,625ac99ffc13ae0e18000147,KETOROLAC TROMETHAMINE,24,1645285210
+manufacturer,625ac99ffc13ae0e18000148,POLYETHYLENE GLYCOL 3350,19,1638613953
+manufacturer,625ac99ffc13ae0e1800012c,Medpride,26,1631502960
+manufacturer,625ac99ffc13ae0e18000156,Silky Smooth Anti-Perspirant Deodorant,11,1624623930
+manufacturer,625ac99ffc13ae0e1800014a,Accupril,16,1645689039
+manufacturer,625ac99ffc13ae0e1800012e,Lymphdrainex,24,1628634274
+manufacturer,625ac99ffc13ae0e1800014a,EQUATE,17,1632503293
+manufacturer,625ac99ffc13ae0e18000141,hydroxyzine pamoate,29,1640546635
+manufacturer,625ac99ffc13ae0e18000156,Fenofibric Acid,18,1621535185
+manufacturer,625ac99ffc13ae0e18000147,PAXIL,30,1649869678
+manufacturer,625ac99ffc13ae0e1800014d,Baza Protect,22,1623666573
+manufacturer,625ac99ffc13ae0e1800012c,Zep Pear Anti-Bacterial,17,1635699554
+manufacturer,625ac99ffc13ae0e18000148,Secret Soothing Effects,24,1646368433
+manufacturer,625ac99ffc13ae0e18000136,SOTHYS PARIS Sunscreen Face and Body Broad Spectrum SPF 30 UVA/UVB,14,1621699412
+manufacturer,625ac99ffc13ae0e18000131,Xylocaine,29,1648582483
+manufacturer,625ac99ffc13ae0e18000131,Good Neighbor Pharmacy Nicotine,11,1640129333
+manufacturer,625ac99ffc13ae0e1800013e,Sulfamethoxazole and Trimethoprim,26,1633088279
+manufacturer,625ac99ffc13ae0e18000131,Boils Eczema,30,1635276623
+manufacturer,625ac99ffc13ae0e1800013e,H-Balm Cleanse,30,1641099302
+manufacturer,625ac99ffc13ae0e1800013e,Propranolol Hydrochloride,16,1642101241
+manufacturer,625ac99ffc13ae0e18000147,Loratadine,15,1647141485
+manufacturer,625ac99ffc13ae0e1800014a,Alvesco,22,1644000387
+manufacturer,625ac99ffc13ae0e1800014a,napoleon PERDIS CHINA DOLL FOUNDATION BROAD SPECTRUM SPF 15 Look 2,20,1639762591
+manufacturer,625ac99ffc13ae0e1800014d,Menopause,24,1646394458
+manufacturer,625ac99ffc13ae0e18000131,HAWAIIAN Tropic,14,1633722789
+manufacturer,625ac99ffc13ae0e18000148,Sodium Chloride,15,1642192269
+manufacturer,625ac99ffc13ae0e1800014d,ALCOHOL FREE HAND SANITIZER,12,1633476178
+manufacturer,625ac99ffc13ae0e1800012e,Tamsulosin Hydrochloride,12,1635432105
+manufacturer,625ac99ffc13ae0e1800014d,One Seed Juniper,11,1619383588
+manufacturer,625ac99ffc13ae0e18000136,Bowel - Digestive Care,25,1641315141
+manufacturer,625ac99ffc13ae0e18000156,Xylocaine,22,1620028145
+manufacturer,625ac99ffc13ae0e1800014a,Vicks VapoSteam,19,1636370621
+manufacturer,625ac99ffc13ae0e18000141,Crest Pro-Health,25,1624610680
+manufacturer,625ac99ffc13ae0e1800012d,KETOPROFEN,30,1620004135
+manufacturer,625ac99ffc13ae0e1800012e,NAFCILLIN SODIUM,17,1642026756
+manufacturer,625ac99ffc13ae0e1800012d,Bumetanide,18,1630598032
+manufacturer,625ac99ffc13ae0e1800012c,PediaCare Childrens MultiSymptom Cold,19,1620121711
+manufacturer,625ac99ffc13ae0e1800012e,Cashmere Moisturizing Makeup Broad Spectrum SPF 15,22,1642685767
+manufacturer,625ac99ffc13ae0e1800014d,Paricalcitol,30,1637771454
+manufacturer,625ac99ffc13ae0e1800014d,Citalopram Hydrobromide,22,1618604436
+manufacturer,625ac99ffc13ae0e1800014a,verapamil hydrochloride,28,1638710396
+manufacturer,625ac99ffc13ae0e1800012d,ZONISAMIDE,27,1619426311
+manufacturer,625ac99ffc13ae0e18000147,Orphenadrine Citrate,30,1638157401
+manufacturer,625ac99ffc13ae0e1800014a,Methyldopa,11,1630796300
+manufacturer,625ac99ffc13ae0e18000136,PIOGLITAZONEHYDROCHLORIDE,15,1628542057
+manufacturer,625ac99ffc13ae0e1800014d,PAROXETINE,28,1649365163
+manufacturer,625ac99ffc13ae0e1800014a,Brimonidine Tartrate,19,1630428060
+manufacturer,625ac99ffc13ae0e1800014a,ARANESP,10,1630521970
+manufacturer,625ac99ffc13ae0e18000156,Dark Foundation SPF 15,13,1648622048
+manufacturer,625ac99ffc13ae0e1800012e,Depakene,12,1642458289
+manufacturer,625ac99ffc13ae0e18000136,Tizanidine,20,1638349099
+manufacturer,625ac99ffc13ae0e18000148,Cephalexin,20,1626208436
+manufacturer,625ac99ffc13ae0e1800012d,PHOMA EXIGUA VAR EXIGUA,15,1631510112
+manufacturer,625ac99ffc13ae0e1800012e,HEALTHY HANDS SANITIZING HAND WIPES WITH ALOE,18,1639881575
+manufacturer,625ac99ffc13ae0e1800012e,family wellness hemorrhoidal,23,1636471061
+manufacturer,625ac99ffc13ae0e18000156,SunDrops 77,25,1644969468
+manufacturer,625ac99ffc13ae0e18000147,ERYTHROMYCIN,14,1629113088
+manufacturer,625ac99ffc13ae0e18000148,"Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",21,1633966821
+manufacturer,625ac99ffc13ae0e1800012c,Rich Girl,23,1628590111
+manufacturer,625ac99ffc13ae0e18000131,"Pollens - Trees, Tree Mix 6",13,1631723520
+manufacturer,625ac99ffc13ae0e1800012c,SHISEIDO PERFECT REFINING FOUNDATION,26,1633351688
+manufacturer,625ac99ffc13ae0e1800014a,Cetirizine Hydrochloride,27,1625604064
+manufacturer,625ac99ffc13ae0e1800014d,Lovenox,30,1619542818
+manufacturer,625ac99ffc13ae0e18000148,Hydrocodone Bitartrate and Acetaminophen,30,1624330515
+manufacturer,625ac99ffc13ae0e1800014a,Fresh Umbrian Clay Freshface Foundation SPF 20 Marrakech,28,1638049713
+manufacturer,625ac99ffc13ae0e1800014a,Extra Strength Headache Relief,26,1624620381
+manufacturer,625ac99ffc13ae0e1800012d,Haloperidol Decanoate,15,1632316621
+manufacturer,625ac99ffc13ae0e1800012d,Octreotide Acetate,28,1620839408
+manufacturer,625ac99ffc13ae0e1800014d,Diovan HCT,18,1627657053
+manufacturer,625ac99ffc13ae0e18000136,Clearskin Professional,15,1630598994
+manufacturer,625ac99ffc13ae0e18000136,TOPIRAMATE,27,1621736497
+manufacturer,625ac99ffc13ae0e18000131,BARACLUDE,20,1621486021
+manufacturer,625ac99ffc13ae0e18000156,ELF Conceler Pencil and Brush,27,1624475271
+manufacturer,625ac99ffc13ae0e18000148,leader anti-diarrheal,10,1631396050
+manufacturer,625ac99ffc13ae0e18000136,RESILIENCE LIFT FIRMING/SCULPTING FACE AND NECK BROAD SPECTRUM SPF 15 NML/COMBO,10,1629231658
+manufacturer,625ac99ffc13ae0e1800014d,Gemfibrozil,22,1641103788
+manufacturer,625ac99ffc13ae0e1800012d,ATOMY SUN,29,1634452591
+manufacturer,625ac99ffc13ae0e1800012c,Fulton Street Market Anti itch,30,1649661787
+manufacturer,625ac99ffc13ae0e1800014d,Escitalopram,16,1649054325
+manufacturer,625ac99ffc13ae0e18000131,Cold and Flu Formula,12,1643505687
+manufacturer,625ac99ffc13ae0e1800013e,Extra Strength Headache Relief,17,1647550049
+manufacturer,625ac99ffc13ae0e1800012e,LMX5,18,1639874813
+manufacturer,625ac99ffc13ae0e1800014a,LAMICTAL,17,1629119133
+manufacturer,625ac99ffc13ae0e18000131,Biaxin,23,1621610385
+manufacturer,625ac99ffc13ae0e1800012c,DIETHYLPROPION HYDROCHLORIDE,10,1633393394
+manufacturer,625ac99ffc13ae0e18000141,Tretin-X,14,1621861428
+manufacturer,625ac99ffc13ae0e18000136,Baclofen,17,1627976492
+manufacturer,625ac99ffc13ae0e1800012c,Publix,30,1619893737
+manufacturer,625ac99ffc13ae0e18000147,Bactoshield CHG,20,1619839376
+manufacturer,625ac99ffc13ae0e1800014a,FIREFLY AntiCavity Fluoride,14,1639704115
+manufacturer,625ac99ffc13ae0e18000141,Johnson Grass,20,1629632819
+manufacturer,625ac99ffc13ae0e18000131,Ciclopirox,21,1646594592
+manufacturer,625ac99ffc13ae0e18000147,Natural Fiber,30,1647893458
+manufacturer,625ac99ffc13ae0e18000148,Being Well Extra Strength Menthol Heat,26,1646130732
+manufacturer,625ac99ffc13ae0e18000141,Warfarin Sodium,10,1639640348
+manufacturer,625ac99ffc13ae0e18000156,smart sense omeprazole,14,1636007678
+manufacturer,625ac99ffc13ae0e1800014a,Benztropine Mesylate,25,1632373603
+manufacturer,625ac99ffc13ae0e1800014d,ALOE SUN BB,23,1634093324
+manufacturer,625ac99ffc13ae0e1800012d,Banophen,19,1618856155
+manufacturer,625ac99ffc13ae0e1800014d,"bacitracin zinc, neomycin sulfate and polymyxin b sulfate",18,1619752347
+manufacturer,625ac99ffc13ae0e1800013e,ZOLPIDEM TARTRATE,13,1622779231
+manufacturer,625ac99ffc13ae0e18000131,Gentamicin Sulfate in Sodium Chloride,24,1635374177
+manufacturer,625ac99ffc13ae0e18000147,4Life Enummi Protective Day Moisturizer,25,1626082709
+manufacturer,625ac99ffc13ae0e18000136,Raspberry,22,1621958174
+manufacturer,625ac99ffc13ae0e18000148,Ideal Flawless,30,1645767796
+manufacturer,625ac99ffc13ae0e18000136,Furosemide,24,1633434965
+manufacturer,625ac99ffc13ae0e18000148,LIGUSTRUM VULGARE POLLEN,29,1633265273
+manufacturer,625ac99ffc13ae0e18000141,Ondansetron,14,1639478828
+manufacturer,625ac99ffc13ae0e1800013e,Berry Scented Hand Sanitizer,27,1637747030
+manufacturer,625ac99ffc13ae0e18000136,Fluoxetine,22,1643074434
+manufacturer,625ac99ffc13ae0e1800012d,Fungus,12,1620670696
+manufacturer,625ac99ffc13ae0e1800014d,WESTERN COTTONWOOD POLLEN,16,1619594396
+manufacturer,625ac99ffc13ae0e1800012c,Ziprasidone Hydrochloride,21,1650015735
+manufacturer,625ac99ffc13ae0e1800013e,POWER WHITE 7,18,1630304730
+manufacturer,625ac99ffc13ae0e18000141,Mucus and Cough Relief,27,1646784126
+manufacturer,625ac99ffc13ae0e18000136,Antiseptic,15,1624014848
+manufacturer,625ac99ffc13ae0e18000131,Paclitaxel,26,1625437881
+manufacturer,625ac99ffc13ae0e18000136,Broad Spectrum SPF 30 Up The Anti,30,1621517390
+manufacturer,625ac99ffc13ae0e1800012c,Aldactone,12,1647941938
+manufacturer,625ac99ffc13ae0e18000131,AVINZA,17,1642385041
+manufacturer,625ac99ffc13ae0e18000131,Isoniazid,15,1646952946
+manufacturer,625ac99ffc13ae0e1800012d,Levothyroxine sodium,29,1632565230
+manufacturer,625ac99ffc13ae0e18000156,Hydrocodone Bitartrate and Acetaminophen,23,1626092633
+manufacturer,625ac99ffc13ae0e1800012e,Senna Laxative,24,1621363309
+manufacturer,625ac99ffc13ae0e18000136,Lorazepam,25,1630731653
+manufacturer,625ac99ffc13ae0e1800012e,Dover Addaprin,14,1650036908
+manufacturer,625ac99ffc13ae0e18000147,Pinchot Juniper,12,1644683439
+manufacturer,625ac99ffc13ae0e1800012d,Panadol,17,1641639722
+manufacturer,625ac99ffc13ae0e1800012c,Acarbose,30,1624761896
+manufacturer,625ac99ffc13ae0e18000141,Glipizide,15,1625095591
+manufacturer,625ac99ffc13ae0e18000141,CALCID,25,1633363371
+manufacturer,625ac99ffc13ae0e18000131,Flumazenil,28,1645247117
+manufacturer,625ac99ffc13ae0e18000141,Extra Strength Gas Relief,15,1631575587
+manufacturer,625ac99ffc13ae0e18000141,Amnesteem,30,1635626896
+manufacturer,625ac99ffc13ae0e1800012d,Aurum Equisetum A,17,1646967733
+manufacturer,625ac99ffc13ae0e1800014a,Torsemide,15,1624825430
+manufacturer,625ac99ffc13ae0e1800014a,Solu-Medrol,14,1640219750
+manufacturer,625ac99ffc13ae0e18000136,Minral Oil,12,1647283264
+manufacturer,625ac99ffc13ae0e18000136,Isopropyl Alcohol,14,1636077939
+manufacturer,625ac99ffc13ae0e18000136,Pepcid AC,14,1621082072
+manufacturer,625ac99ffc13ae0e18000131,Nighttime Sleep Aid,25,1636536907
+manufacturer,625ac99ffc13ae0e1800012d,SINGULAIR,17,1637531258
+manufacturer,625ac99ffc13ae0e1800012e,Penicillin V Potassium,13,1633381390
+manufacturer,625ac99ffc13ae0e18000148,Naproxen,17,1642993803
+manufacturer,625ac99ffc13ae0e18000148,Benzocaine,16,1642753093
+manufacturer,625ac99ffc13ae0e1800013e,Vyvanse,22,1640444889
+manufacturer,625ac99ffc13ae0e1800014a,lisinopril,17,1649085654
+manufacturer,625ac99ffc13ae0e18000148,Midol Complete,11,1647832335
+manufacturer,625ac99ffc13ae0e18000148,HELLO FLAWLESS OXYGEN WOW Broad Spectrum SPF 25 BRIGHTENING MAKEUP - BELIEVE IN ME,30,1637384249
+manufacturer,625ac99ffc13ae0e1800013e,SBS 40,12,1638951806
+manufacturer,625ac99ffc13ae0e1800014d,Zyvox,16,1621963111
+manufacturer,625ac99ffc13ae0e18000136,Hypophysis Stannum,28,1642608120
+manufacturer,625ac99ffc13ae0e18000148,Nicotine,28,1648822860
+manufacturer,625ac99ffc13ae0e1800012d,Risperidone,25,1620341966
+manufacturer,625ac99ffc13ae0e18000136,Keppra,13,1623521777
+manufacturer,625ac99ffc13ae0e18000131,Ru-Hist D,20,1641520118
+manufacturer,625ac99ffc13ae0e1800012c,Diltiazem Hydrochloride,17,1628205478
+manufacturer,625ac99ffc13ae0e1800012e,Omeprazole,26,1625009634
+manufacturer,625ac99ffc13ae0e1800013e,AMSure,23,1621711154
+manufacturer,625ac99ffc13ae0e1800012d,Prempro,14,1649742612
+manufacturer,625ac99ffc13ae0e1800014d,Digoxin,21,1649873384
+manufacturer,625ac99ffc13ae0e1800012e,Lisinopril,17,1622375990
+manufacturer,625ac99ffc13ae0e18000147,Ranitidine,11,1623829525
+manufacturer,625ac99ffc13ae0e1800014d,Listerine Ultraclean Antiseptic,11,1630636054
+manufacturer,625ac99ffc13ae0e18000156,QC Cold and Hot Pain Relief,20,1646508109
+manufacturer,625ac99ffc13ae0e1800012e,One Seed Juniper,30,1632359032
+manufacturer,625ac99ffc13ae0e1800013e,Eczemol,26,1634389150
+manufacturer,625ac99ffc13ae0e1800014d,ACETAMINOPHEN AND CODEINE PHOSPHATE,10,1636496852
+manufacturer,625ac99ffc13ae0e18000147,Mirtazapine,25,1633257578
+manufacturer,625ac99ffc13ae0e18000131,Ivarest,13,1631077329
+manufacturer,625ac99ffc13ae0e1800012e,Pneumotox,15,1621390314
+manufacturer,625ac99ffc13ae0e1800012e,Sebastian Sun Smacker SPF 24 Calypso Berry Beat,13,1637191247
+manufacturer,625ac99ffc13ae0e1800012d,Zyprexa,30,1647437612
+manufacturer,625ac99ffc13ae0e1800012c,Baclofen,27,1644518155
+manufacturer,625ac99ffc13ae0e18000141,Gemfibrozil,15,1630046286
+manufacturer,625ac99ffc13ae0e1800012c,Ibuprofen,21,1641890330
+manufacturer,625ac99ffc13ae0e1800012e,Fluorouracil,26,1643211218
+manufacturer,625ac99ffc13ae0e1800012c,ADVIL COLD AND SINUS,17,1640197946
+manufacturer,625ac99ffc13ae0e1800012c,Diazepam,20,1644590884
+manufacturer,625ac99ffc13ae0e18000141,Menthol and Methyl Salicylate,18,1640781202
+manufacturer,625ac99ffc13ae0e1800012e,Cold and Infection Defense,15,1636214231
+manufacturer,625ac99ffc13ae0e1800013e,Baclofen,13,1625161298
+manufacturer,625ac99ffc13ae0e18000147,Clindamycin Phosphate,23,1633673540
+manufacturer,625ac99ffc13ae0e18000141,INDOMETHACIN,29,1633487918
+manufacturer,625ac99ffc13ae0e1800012c,Alprazolam,23,1619986602
+manufacturer,625ac99ffc13ae0e1800014d,Zaliex Alcohol-Free Antiseptic Hand Sanitizer,21,1645860204
+manufacturer,625ac99ffc13ae0e18000156,Lamotrigine,28,1648116606
+manufacturer,625ac99ffc13ae0e18000141,Ibuprofen (NSAID) Pain Reliever/Fever Reducer,26,1620039552
+manufacturer,625ac99ffc13ae0e1800013e,EPIVIR,22,1629612491
+manufacturer,625ac99ffc13ae0e1800012c,Summer Breeze Antibacterial Foaming Hand Wash,12,1645219673
+manufacturer,625ac99ffc13ae0e18000141,meloxicam,25,1645893260
+manufacturer,625ac99ffc13ae0e1800012c,Plavix,14,1635398790
+manufacturer,625ac99ffc13ae0e18000147,Heparin Sodium,12,1649360532
+manufacturer,625ac99ffc13ae0e18000147,Mucus Relief D,24,1643828784
+manufacturer,625ac99ffc13ae0e1800012e,Cough,26,1634090303
+manufacturer,625ac99ffc13ae0e18000136,Multi-Vitamin Fluoride and Iron Drops,19,1641184595
+manufacturer,625ac99ffc13ae0e1800012d,BENZPHETAMINE hYDROCHLORIDE,26,1626515180
+manufacturer,625ac99ffc13ae0e1800012d,Medi-First Plus First Aid Eye Wash,24,1635255820
+manufacturer,625ac99ffc13ae0e1800012c,good sense antacid,10,1623184866
+manufacturer,625ac99ffc13ae0e1800012c,Aspirin,27,1621335908
+manufacturer,625ac99ffc13ae0e1800012d,Oxycontin,23,1631566372
+manufacturer,625ac99ffc13ae0e1800014d,Cephalexin,14,1640288092
+manufacturer,625ac99ffc13ae0e1800013e,Ventavis,20,1620078893
+manufacturer,625ac99ffc13ae0e1800012c,Treatment Set TS333177,27,1627524573
+manufacturer,625ac99ffc13ae0e18000141,McKesson Fluoride,28,1625262954
+manufacturer,625ac99ffc13ae0e18000148,Diazepam,25,1624029362
+manufacturer,625ac99ffc13ae0e1800012c,wal tap elixir,21,1628071252
+manufacturer,625ac99ffc13ae0e1800012d,Diazepam,20,1622105748
+manufacturer,625ac99ffc13ae0e1800013e,Plumbum Mel.,10,1619916769
+manufacturer,625ac99ffc13ae0e1800012e,English Plantain Pollen,17,1619327305
+manufacturer,625ac99ffc13ae0e1800012c,Witch Hazel,29,1621134042
+manufacturer,625ac99ffc13ae0e1800013e,Extra Strength Headache Relief,28,1623034724
+manufacturer,625ac99ffc13ae0e1800012e,Timeless EGF Power Essence,14,1625795558
+manufacturer,625ac99ffc13ae0e1800012c,APAP,20,1628978168
+manufacturer,625ac99ffc13ae0e18000147,Earwax Removal Aid,22,1622662920
+manufacturer,625ac99ffc13ae0e1800012c,FLEXITOL FIRST AID,16,1635864075
+manufacturer,625ac99ffc13ae0e18000148,NAAMAN,26,1646905250
+manufacturer,625ac99ffc13ae0e1800014d,LIFT LUMIERE,29,1644187533
+manufacturer,625ac99ffc13ae0e1800014d,Treatment Set TS346697,23,1639453131
+manufacturer,625ac99ffc13ae0e18000147,Guanfacine Hydrochloride,30,1648502071
+manufacturer,625ac99ffc13ae0e18000136,Aller-chlor,12,1642232796
+manufacturer,625ac99ffc13ae0e18000147,Aurum Equisetum A,15,1624881263
+manufacturer,625ac99ffc13ae0e1800014d,Xarelto,20,1637428163
+manufacturer,625ac99ffc13ae0e18000141,Omeprazole,17,1623519874
+manufacturer,625ac99ffc13ae0e18000141,Alka-Seltzer XTRA STRENGTH,20,1635890090
+manufacturer,625ac99ffc13ae0e1800014d,Kerydin,21,1625259299
+manufacturer,625ac99ffc13ae0e18000131,Lorazepam,26,1629394668
+manufacturer,625ac99ffc13ae0e1800012d,GRAPHITES,28,1633145193
+manufacturer,625ac99ffc13ae0e18000141,Methylergonovine Maleate,28,1634295930
+manufacturer,625ac99ffc13ae0e1800014d,clindamycin hydrochloride,16,1642243470
+manufacturer,625ac99ffc13ae0e18000147,Verapamil Hydrochloride,20,1633269384
+manufacturer,625ac99ffc13ae0e18000136,Sumaxin,29,1619522000
+manufacturer,625ac99ffc13ae0e18000147,Kali bichromicum,13,1620397448
+manufacturer,625ac99ffc13ae0e18000156,Diltiazem Hydrochloride,18,1646298253
+manufacturer,625ac99ffc13ae0e18000156,GlipizideER,30,1627881795
+manufacturer,625ac99ffc13ae0e18000136,Porcelana Day Skin Lightening,14,1646503383
+manufacturer,625ac99ffc13ae0e1800014d,pain relief and pain relief pm,25,1620318006
+manufacturer,625ac99ffc13ae0e1800014a,Dutoprol,13,1643822185
+manufacturer,625ac99ffc13ae0e18000156,allergy relief eye,22,1619072058
+manufacturer,625ac99ffc13ae0e1800012e,Apothecary PVP Topical,29,1644537629
+manufacturer,625ac99ffc13ae0e18000141,Articadent,14,1646155029
+manufacturer,625ac99ffc13ae0e1800012d,Hydrocodone Bitartrate and Acetaminophen,21,1625510406
+manufacturer,625ac99ffc13ae0e1800014d,Monistat 3 Combination Pack,13,1633283102
+manufacturer,625ac99ffc13ae0e18000141,Pioglitazone HCL and Metformin HCL,16,1641898536
+manufacturer,625ac99ffc13ae0e1800012d,Loxapine,19,1639313109
+manufacturer,625ac99ffc13ae0e18000148,Baza Cleanse and Protect,20,1618706300
+manufacturer,625ac99ffc13ae0e18000156,Day Time Cold and Flu Relief,29,1632786277
+manufacturer,625ac99ffc13ae0e18000141,Clindamycin,18,1626419576
+manufacturer,625ac99ffc13ae0e18000141,Cucumber,23,1619898329
+manufacturer,625ac99ffc13ae0e1800013e,Lemon,28,1620158588
+manufacturer,625ac99ffc13ae0e1800013e,GOOD NEIGHBOR PHARMACY CLEANSING PADS,16,1633595978
+manufacturer,625ac99ffc13ae0e1800012d,Sardine,24,1645345187
+manufacturer,625ac99ffc13ae0e18000156,Daily Moisturizing,24,1625032501
+manufacturer,625ac99ffc13ae0e18000148,PETROLATUM,21,1627217319
+manufacturer,625ac99ffc13ae0e1800014a,AcneFree Clear Skin Treatments,28,1628186043
+manufacturer,625ac99ffc13ae0e1800014d,SENSAI FLUID FINISH LASTING VELVET FV202,29,1619085083
+manufacturer,625ac99ffc13ae0e18000141,Mometasone Furoate,19,1640237875
+manufacturer,625ac99ffc13ae0e18000136,"Molds, Rusts and Smuts, Alternaria tenuis",29,1619536559
+manufacturer,625ac99ffc13ae0e1800013e,Gabapentin,17,1621226291
+manufacturer,625ac99ffc13ae0e1800012e,Sanitizing Alcohol Rub,18,1635279265
+manufacturer,625ac99ffc13ae0e18000147,wal flu,29,1628274078
+manufacturer,625ac99ffc13ae0e1800014d,Sting Relief Pads,23,1626456184
+manufacturer,625ac99ffc13ae0e1800014a,ALSUMA,10,1644144743
+manufacturer,625ac99ffc13ae0e18000136,Oxacillin,23,1639878668
+manufacturer,625ac99ffc13ae0e18000156,Midazolam Hydrochloride,12,1627641515
+manufacturer,625ac99ffc13ae0e1800013e,Hydromorphone HCl,25,1631297518
+manufacturer,625ac99ffc13ae0e1800012d,Metamucil,16,1632487328
+manufacturer,625ac99ffc13ae0e1800013e,Vecuronium,28,1631077142
+manufacturer,625ac99ffc13ae0e18000141,CAREONE,27,1640432163
+manufacturer,625ac99ffc13ae0e18000131,esika MEN Control Fresh Deodorant and Antiperspirant,28,1625343672
+manufacturer,625ac99ffc13ae0e1800013e,Select Brand Baby Sunscreen,29,1631785385
+manufacturer,625ac99ffc13ae0e18000131,SHISEIDO ADVANCED HYDRO-LIQUID COMPACT (REFILL),14,1642921272
+manufacturer,625ac99ffc13ae0e1800013e,HAWAIIAN Tropic Dry Clear Sunscreen Broad Spectrum SPF 12 water resistant,16,1634770469
+manufacturer,625ac99ffc13ae0e18000147,AmerFresh,12,1643178553
+manufacturer,625ac99ffc13ae0e1800013e,LEVOTHYROXINE SODIUM,24,1633947620
+manufacturer,625ac99ffc13ae0e18000147,LBEL EFFET PARFAIT MINERAL NATURAL SKIN EFFECT MOUSSE FOUNDATION SPF 16,21,1625286680
+manufacturer,625ac99ffc13ae0e18000131,Flumazenil,28,1642367000
+manufacturer,625ac99ffc13ae0e18000136,Diazepam,30,1649820423
+manufacturer,625ac99ffc13ae0e1800012e,Connective Tissue,29,1642634935
+manufacturer,625ac99ffc13ae0e18000136,Cyclobenzaprine Hydrochloride,24,1647239453
+manufacturer,625ac99ffc13ae0e1800012c,Carisoprodol,11,1645138696
+manufacturer,625ac99ffc13ae0e1800012e,Instant Hand sanitizer,25,1624356580
+manufacturer,625ac99ffc13ae0e18000131,AQUAFRESH,11,1640681692
+manufacturer,625ac99ffc13ae0e18000147,Prednisolone Sodium Phosphate,16,1640736695
+manufacturer,625ac99ffc13ae0e1800012e,Levetiracetam,30,1619407232
+manufacturer,625ac99ffc13ae0e18000136,Anticavity,23,1644685396
+manufacturer,625ac99ffc13ae0e1800012c,Hydralazine,22,1633018462
+manufacturer,625ac99ffc13ae0e18000156,simply right naproxen sodium,26,1644436552
+manufacturer,625ac99ffc13ae0e1800013e,Baclofen,16,1637068947
+manufacturer,625ac99ffc13ae0e18000148,Zolmitriptan,11,1627254771
+manufacturer,625ac99ffc13ae0e18000147,imipramine hydrochloride,30,1641353442
+manufacturer,625ac99ffc13ae0e18000141,Tolnaftate,24,1620999806
+manufacturer,625ac99ffc13ae0e18000136,Antibacterial Foaming Hand Sanitizer,19,1641227444
+manufacturer,625ac99ffc13ae0e1800013e,Risperidone,20,1634195242
+manufacturer,625ac99ffc13ae0e18000136,Sexual Identity,18,1635787590
+manufacturer,625ac99ffc13ae0e18000141,Piperacillin and Tazobactam,15,1625339587
+manufacturer,625ac99ffc13ae0e18000141,Divalproex Sodium,25,1623859841
+manufacturer,625ac99ffc13ae0e1800013e,TRAMADOL HYDROCHLORIDE,18,1639033470
+manufacturer,625ac99ffc13ae0e18000131,VIRACEPT,11,1645146396
+manufacturer,625ac99ffc13ae0e1800014d,Fludarabine Phosphate,29,1637248700
+manufacturer,625ac99ffc13ae0e1800012c,Complete Care,23,1640588215
+manufacturer,625ac99ffc13ae0e1800014a,Simply White,14,1635983944
+manufacturer,625ac99ffc13ae0e18000147,Amoxicillin,22,1635153402
+manufacturer,625ac99ffc13ae0e18000156,Clonidine Hydrochloride,21,1643823712
+manufacturer,625ac99ffc13ae0e18000147,Walgreens 7-in-1 Anti-Aging Vitamin Complex Broad Spectrum SPF 15 Sunscreen,12,1630328654
+manufacturer,625ac99ffc13ae0e18000148,FRAICHEUR BAMBOU ANTIPERSPIRANT AND DEODORANT ROLL-ON,27,1635856517
+manufacturer,625ac99ffc13ae0e18000136,Cough Relief,23,1631262496
+manufacturer,625ac99ffc13ae0e1800012d,Multitrace-5,28,1630330471
+manufacturer,625ac99ffc13ae0e18000147,Pravastatin Sodium,18,1628442161
+manufacturer,625ac99ffc13ae0e18000131,Hydrochlorothiazide,21,1626906091
+manufacturer,625ac99ffc13ae0e1800014a,Pure Finish Mineral Powder Foundation SPF 20 Pure Finish 9,24,1621309932
+manufacturer,625ac99ffc13ae0e18000136,Protonix,15,1644772772
+manufacturer,625ac99ffc13ae0e1800014a,No7 Protect and Perfect Hand Cream Sunscreen SPF 15,25,1634620980
+manufacturer,625ac99ffc13ae0e18000147,Tizanidine,14,1645163740
+manufacturer,625ac99ffc13ae0e18000136,nifedipine,20,1629297898
+manufacturer,625ac99ffc13ae0e1800014d,Linzess,23,1628919925
+manufacturer,625ac99ffc13ae0e18000156,Menstrual - PMS,14,1647328337
+manufacturer,625ac99ffc13ae0e18000131,Oxygen,23,1637793872
+manufacturer,625ac99ffc13ae0e1800012d,The Natural Dentist,29,1620412875
+manufacturer,625ac99ffc13ae0e18000148,PDI Sani-Hands ALC,22,1630161163
+manufacturer,625ac99ffc13ae0e18000131,Naproxen Sodium,15,1649348352
+manufacturer,625ac99ffc13ae0e1800012e,Gelato Homecare,10,1621941632
+manufacturer,625ac99ffc13ae0e18000131,Spry Xylitol Cinnamon,11,1647507407
+manufacturer,625ac99ffc13ae0e1800012c,Fenofibrate,25,1629845820
+manufacturer,625ac99ffc13ae0e1800012d,Monistat 3 Combination Pack,22,1629996006
+manufacturer,625ac99ffc13ae0e18000147,Temozolomide,15,1634397248
+manufacturer,625ac99ffc13ae0e1800012d,simvastatin,30,1623560585
+manufacturer,625ac99ffc13ae0e18000131,Dermablend Smooth Indulgence Concealer,22,1629886819
+manufacturer,625ac99ffc13ae0e1800013e,Whole Grain Barley,29,1621434808
+manufacturer,625ac99ffc13ae0e18000156,Smart Sense All Day Allergy D,20,1619307326
+manufacturer,625ac99ffc13ae0e1800012d,Alfuzosin Hydrochloride,11,1631280289
+manufacturer,625ac99ffc13ae0e18000136,Anti-Bacterial Hand,12,1644638532
+manufacturer,625ac99ffc13ae0e18000148,Disney PIXAR Toy Story Antibacterial Hand Wipes,11,1640439412
+manufacturer,625ac99ffc13ae0e1800014a,LES BEIGES,16,1635351616
+manufacturer,625ac99ffc13ae0e1800012c,Galantamine Hydrobromide,11,1649741168
+manufacturer,625ac99ffc13ae0e18000136,Lip Balm Sunscreen SPF 4,26,1624169702
+manufacturer,625ac99ffc13ae0e18000156,Cerebromax,10,1629799736
+manufacturer,625ac99ffc13ae0e18000148,Clean Choice Alcohol Sanitizer,25,1624662486
+manufacturer,625ac99ffc13ae0e18000136,KINESYS,11,1640285253
+manufacturer,625ac99ffc13ae0e18000141,METFORMIN HYDROCHLORIDE,13,1620454082
+manufacturer,625ac99ffc13ae0e1800012e,Cephalexin,13,1636389487
+manufacturer,625ac99ffc13ae0e18000136,Telmisartan,16,1637331109
+manufacturer,625ac99ffc13ae0e18000136,Lithium Carbonate,11,1621618781
+manufacturer,625ac99ffc13ae0e1800012c,Annual Blue Grass,25,1648976737
+manufacturer,625ac99ffc13ae0e1800012d,GenTeal,29,1629486832
+manufacturer,625ac99ffc13ae0e18000136,Preferred Plus Sinus,25,1626976839
+manufacturer,625ac99ffc13ae0e18000147,Naproxen,30,1624595569
+manufacturer,625ac99ffc13ae0e18000131,Isopropyl Rubbing Alcohol With Wintergreen,17,1648351588
+manufacturer,625ac99ffc13ae0e18000141,Namenda,28,1626535423
+manufacturer,625ac99ffc13ae0e1800012e,Hydrogen Peroxide,17,1641903616
+manufacturer,625ac99ffc13ae0e18000131,Gabapentin,11,1630557892
+manufacturer,625ac99ffc13ae0e1800012e,Zazole,27,1622814342
+manufacturer,625ac99ffc13ae0e18000156,Pramipexole dihydrochloride,16,1619485985
+manufacturer,625ac99ffc13ae0e18000148,Etodolac,14,1646628324
+manufacturer,625ac99ffc13ae0e18000147,Doxazosin,19,1638161845
+manufacturer,625ac99ffc13ae0e1800012d,Creamy Cocoa Butter Petroleum,24,1635255251
+manufacturer,625ac99ffc13ae0e18000136,Nettle,30,1641687388
+manufacturer,625ac99ffc13ae0e18000141,Hand wash,30,1642857655
+manufacturer,625ac99ffc13ae0e18000147,PAULAS CHOICE HYDRALIGHT SHINE-FREE DAILY MINERAL COMPLEX Broad Spectrum SPF 30,20,1650032403
+manufacturer,625ac99ffc13ae0e1800012d,OXYGEN,24,1626379868
+manufacturer,625ac99ffc13ae0e1800012e,ampicillin,10,1622189252
+manufacturer,625ac99ffc13ae0e1800012e,TRUFFLE EX WRINKLE TONER,26,1646123537
+manufacturer,625ac99ffc13ae0e18000141,Seroquel,17,1619519132
+manufacturer,625ac99ffc13ae0e18000131,Banana Boat Sport Performance Active Dry protect,29,1649865605
+manufacturer,625ac99ffc13ae0e1800012e,Raspberry,27,1644959882
+manufacturer,625ac99ffc13ae0e18000141,Depakote,23,1646835632
+manufacturer,625ac99ffc13ae0e1800013e,Maxipime,14,1623196588
+manufacturer,625ac99ffc13ae0e18000141,Cheratussin AC,16,1640868023
+manufacturer,625ac99ffc13ae0e1800013e,chlortab,12,1647567306
+manufacturer,625ac99ffc13ae0e1800012d,Metformin Hydrochloride,11,1634580380
+manufacturer,625ac99ffc13ae0e18000148,Levofloxacin,25,1627122793
+manufacturer,625ac99ffc13ae0e18000141,PERFECTION LUMIERE,11,1632594883
+manufacturer,625ac99ffc13ae0e1800012e,Depakote,25,1632639888
+manufacturer,625ac99ffc13ae0e1800014a,METFORMIN HYDROCHLORIDE,22,1624503273
+manufacturer,625ac99ffc13ae0e1800012e,Nausea and Motion Sickness,28,1625300866
