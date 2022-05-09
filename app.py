@@ -1,3 +1,4 @@
+from tkinter import W
 from flask import Flask, render_template, request
 from plots import doctor, manufacturer, medical, warehouse
 
@@ -21,6 +22,11 @@ def nameQuantity():
 def dailyData():
     manufacturer_obj = manufacturer.Manufacturers()
     return manufacturer_obj.DailyData
+
+@app.route('/warehouse/IdQuantity')
+def WarehouseIDQuantity():
+    warehouse_obj = warehouse.Warehouses()
+    return warehouse_obj.warehouseVsID
 
 @app.route('/warehouse/DailyData')
 def warehouseDailyData():
