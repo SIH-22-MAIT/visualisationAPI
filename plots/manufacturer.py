@@ -32,13 +32,13 @@ class Manufacturers():
     def dailyPlot(self):
         daily = manufacturer_df
         daily['outTime'] = pd.to_datetime(daily['outTime'],unit='s')
-        daily = daily.pivot_table(index = daily.outTime.dt.date, aggfunc ='size')
-        daily = daily.to_frame()
+        daily = daily.pivot_table(index = daily.outTime.dt.date, aggfunc =np.sum)
+        #daily = daily.to_frame()
         daily = daily.reset_index()
 
         x = daily['outTime'].to_list()
         x = [date_obj.strftime('%Y-%m-%d') for date_obj in x]
-        y = daily[0].to_list()
+        y = daily['quantity'].to_list()
         daily_data = {'x': x, 'y': y}
 
         return json.dumps(daily_data)
