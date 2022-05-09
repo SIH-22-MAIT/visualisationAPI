@@ -33,6 +33,11 @@ def warehouseDailyData():
     warehouse_obj = warehouse.Warehouses()
     return warehouse_obj.DailyData
 
+@app.route('/warehouse/DailyInData')
+def warehouseDailyInData():
+    warehouse_obj = warehouse.Warehouses()
+    return warehouse_obj.DailyInData
+
 @app.route('/medicalStore/DailyData')
 def medicalStoreDailyData():
     medical_obj = medical.medicalStore()
