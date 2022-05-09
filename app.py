@@ -43,6 +43,11 @@ def medicalStoreDailyData():
     medical_obj = medical.medicalStore()
     return medical_obj.DailyData
 
+@app.route('/medicalStore/IdQuantity')
+def MedicalIDQuantity():
+    medical_obj = medical.medicalStore()
+    return medical_obj.MedicalQuantity
+
 @app.route('/doctor/NameQuantity')
 def doctorNameQuantity():
     doctor_obj = doctor.Doctors()
